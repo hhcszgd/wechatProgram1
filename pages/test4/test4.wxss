@@ -1,0 +1,10 @@
+/* pages/test3/test4.wxss */
+.map1{
+  border-color: red;
+  width: 100%;
+  /* max-width: 11111; */
+  height: 655px;
+  margin-left: 0px;
+  margin-right: 00px;
+  color: blue;
+}

@@ -1,0 +1,3 @@
+<!--pages/workpage/workpage.wxml-->
+
+<text id='textshow' class='auto-break-line'>{{contentOfServer}}</text>

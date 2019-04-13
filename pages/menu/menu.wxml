@@ -1,0 +1,3 @@
+<!--pages/menu/menu.wxml-->
+<button id='tomap' bindtap='gotomap'>go to map</button>
+<button id='tomap' bindtap='gotoworkpage'>go to work page</button>

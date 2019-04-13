@@ -1,0 +1,4 @@
+/* pages/workpage/workpage.wxss */
+.auto-break-line{
+  word-break:break-all;
+}
